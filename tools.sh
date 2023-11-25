@@ -12,3 +12,4 @@ apt update -y
 apt install git -y
 sudo apt-get install jenkins -y
 service jenkins start
+apt install docker.io -y
